@@ -1,4 +1,11 @@
 ## Hi there 👋
+Location: Rehovot - Israel
+
+My Favorite Fluorophore is: PE-Cy7 780
+
+Previous coding experience: Beginner
+
+What I hope to get from this course: a consistent way of analyzing my data, understand the data 
 
 <!--
 **francoherreara258/francoherreara258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
